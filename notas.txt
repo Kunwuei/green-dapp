@@ -1,0 +1,5 @@
+solana logs -ul TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA
+
+
+email: cmap.lopes@sapo.pt
+password: Cmaplopes1$
